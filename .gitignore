@@ -1,0 +1,11 @@
+node_modules/
+.firebase/
+.firebaserc
+firebase-debug*.log
+*.local
+.env*
+backups/
+*.zip
+service-account*.json
+
+tools/.staff-deploy-*/
